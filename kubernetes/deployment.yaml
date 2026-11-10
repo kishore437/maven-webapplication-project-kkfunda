@@ -4,7 +4,7 @@ metadata:
   name: javawebappdep
   namespace: dev
 spec:
-  replicas: 6
+  replicas: 3
   strategy:
     type: Recreate
   selector:
